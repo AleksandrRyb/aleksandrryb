@@ -11,7 +11,7 @@ I am a passionate and experienced full-stack web developer specializing in Node.
 
 - **Programming Languages:** JavaScript, TypeScript
 - **Frontend Development:** React.js, HTML, CSS, JavaScript, TypeScript
-- **Backend Development:** Node.js, Express.js
+- **Backend Development:** Node.js, Express.js, Typescript
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **State Management:** Redux, Redux Saga, RTK, React Query
 - **UI Frameworks:** Mantine, Chakra

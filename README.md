@@ -11,11 +11,17 @@ I am a passionate and experienced full-stack web developer specializing in Node.
 
 - **Programming Languages:** JavaScript, TypeScript
 - **Frontend Development:** React.js, HTML, CSS, JavaScript, TypeScript
-- **Backend Development:** Node.js, Express.js, MongoDB
+- **Backend Development:** Node.js, Express.js
 - **Database:** MongoDB, MySQL, PostgreSQL
-- **State Management:** Redux, MobX
-- **UI Frameworks:** Material-UI, Bootstrap
+- **State Management:** Redux, Redux Saga, RTK, React Query
+- **UI Frameworks:** Mantine, Chakra
 - **Version Control:** Git, GitHub
-- **Testing:** Jest, Enzyme
-- **DevOps:** Docker, AWS, Heroku
+- **Testing:** Jest
+- **DevOps:** Docker, Heroku, Vercel
 - **Agile Methodologies:** Scrum, Kanban
+
+## Contact
+
+- Email: inkognito19931@example.com
+
+Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or if you're interested in collaboration. Let's build amazing things together! 🚀

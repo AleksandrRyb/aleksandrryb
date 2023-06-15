@@ -22,6 +22,6 @@ I am a passionate and experienced full-stack web developer specializing in Node.
 
 ## Contact
 
-- Email: inkognito19931@example.com
+- Email: inkognito19931@gmail.com
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or if you're interested in collaboration. Let's build amazing things together! 🚀

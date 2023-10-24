@@ -12,12 +12,13 @@ I am a passionate and experienced full-stack web developer specializing in Node.
 - **Programming Languages:** JavaScript, TypeScript
 - **Frontend Development:** React.js, HTML, CSS, JavaScript, TypeScript
 - **Backend Development:** Node.js, Express.js, Nestjs Typescript
-- **Database:** MongoDB, PostgreSQL
+- **Database:** MongoDB, PostgreSQL, Firebase, DynamoDB
 - **State Management:** Redux, Redux Saga, RTK, React Query
 - **UI Frameworks:** Mantine, Chakra
 - **Version Control:** Git, GitHub
-- **Testing:** Jest
-- **DevOps:** Docker, Heroku, Vercel
+- **Testing:** Jest,
+- **Clouds:** AWS, Firebase
+- **DevOps:** Docker, Heroku, Vercel, Fireabase, AWS
 - **Agile Methodologies:** Scrum, Kanban 
 
 ## Contact

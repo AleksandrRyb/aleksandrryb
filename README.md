@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 
-# 👋 Hello, I'm [Aleksandr]
+# 👋 Hello, I'm Aleksandr
 
 ## 💛 JavaScript & TypeScript Aficionado
 
@@ -68,4 +68,4 @@ setInterval(() => {
 
 I'm always excited to discuss JavaScript, share ideas, or collaborate on interesting projects. Reach out and let's talk JS!
 
-- Linkedin[LinkedIn](www.linkedin.com/in/aleksandr-rybin-a85946337)
+- Linkedin [LinkedIn](www.linkedin.com/in/aleksandr-rybin-a85946337)

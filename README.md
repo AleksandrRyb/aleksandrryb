@@ -63,9 +63,3 @@ setInterval(() => {
 - Exploring functional programming paradigms in JS
 - Leveraging TypeScript for enhanced code quality and developer experience
 - Experimenting with JavaScript runtime environments beyond the browser
-
-### 📫 Let's Connect:
-
-I'm always excited to discuss JavaScript, share ideas, or collaborate on interesting projects. Reach out and let's talk JS!
-
-- Linkedin [LinkedIn](www.linkedin.com/in/aleksandr-rybin-a85946337)
